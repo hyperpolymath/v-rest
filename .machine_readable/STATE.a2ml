@@ -7,12 +7,12 @@
 [metadata]
 project = "v-rest"
 version = "0.1.0"
-last-updated = "{{CURRENT_DATE}}"
+last-updated = "2026-03-14"
 status = "active"  # active | paused | archived
 
 [project-context]
 name = "v-rest"
-purpose = "{{PROJECT_PURPOSE}}"
+purpose = "V-lang REST API framework and HTTP server"
 completion-percentage = 0
 
 [position]

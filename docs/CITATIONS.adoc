@@ -6,7 +6,7 @@
 [source,bibtex]
 ----
 @software{v-rest_2026,
-  author = {{{AUTHOR_LAST}}, {{AUTHOR_FIRST}}},
+  author = {Jewell, Jonathan D.A.},
   title = {v-rest},
   year = {2026},
   url = {https://github.com/hyperpolymath/v-rest},
@@ -16,7 +16,7 @@
 
 == Harvard Style
 
-{{AUTHOR_LAST}}, {{AUTHOR_INITIALS}} (2026) _v-rest_ [Computer software]. Available at: https://github.com/hyperpolymath/v-rest
+Jewell, J.D.A. (2026) _v-rest_ [Computer software]. Available at: https://github.com/hyperpolymath/v-rest
 
 == OSCOLA
 
@@ -24,11 +24,11 @@ Jonathan D.A. Jewell, 'v-rest' (2026) <https://github.com/hyperpolymath/v-rest>
 
 == MLA
 
-{{AUTHOR_LAST}}, {{AUTHOR_FIRST}} "v-rest." 2026, github.com/hyperpolymath/v-rest.
+Jewell, Jonathan D.A. "v-rest." 2026, github.com/hyperpolymath/v-rest.
 
 == APA 7
 
-{{AUTHOR_LAST}}, {{AUTHOR_INITIALS}} (2026). _v-rest_ [Computer software]. GitHub. https://github.com/hyperpolymath/v-rest
+Jewell, J.D.A. (2026). _v-rest_ [Computer software]. GitHub. https://github.com/hyperpolymath/v-rest
 
 == See Also
 
